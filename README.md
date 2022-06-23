@@ -1,8 +1,4 @@
 # mern-stack-expense-tracker app
 
-
-Expense Tracker app will help you to track your montly expenditures like your savings, investments and expenses. 
-App will show you how many percentage you save, invest and spend on your things
-
-
+Built an app which tracks all of the monthly user expense like user’s savings, expense and investment in which user can add or delete transactions, using NodeJS, mongoDB and Express for back-end and React for front-end
 
